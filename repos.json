@@ -1,0 +1,125 @@
+[
+  {
+    "badges": [
+      [
+        "https://badge.fury.io/rb/chrome_logger.png"
+      , "http://badge.fury.io/rb/chrome_logger"
+      ]
+    , [
+        "https://travis-ci.org/cookrn/chrome_logger.png"
+      , "https://travis-ci.org/cookrn/chrome_logger"
+      ]
+    , [
+        "https://codeclimate.com/github/cookrn/chrome_logger.png"
+      , "https://codeclimate.com/github/cookrn/chrome_logger"
+      ]
+    , [
+        "https://coveralls.io/repos/cookrn/chrome_logger/badge.png"
+      , "https://coveralls.io/r/cookrn/chrome_logger"
+      ]
+    , [
+        "https://gemnasium.com/cookrn/chrome_logger.png"
+      , "https://gemnasium.com/cookrn/chrome_logger"
+      ]
+    ]
+  , "description": "Ruby library that implements the Chrome Logger spec as Rack middleware"
+  , "github_user": "cookrn"
+  , "name": "chrome_logger"
+  }
+, {
+    "description": "the ruby container you've always wanted: an ordered string/symbol indifferent hash"
+  , "github_user": "ahoward"
+  , "name": "map"
+  }
+, {
+    "badges": [
+      [
+        "https://badge.fury.io/rb/petra.png"
+      , "http://badge.fury.io/rb/petra"
+      ]
+    , [
+        "https://travis-ci.org/cookrn/petra.png"
+      , "https://travis-ci.org/cookrn/petra"
+      ]
+    , [
+        "https://codeclimate.com/github/cookrn/petra.png"
+      , "https://codeclimate.com/github/cookrn/petra"
+      ]
+    , [
+        "https://coveralls.io/repos/cookrn/petra/badge.png"
+      , "https://coveralls.io/r/cookrn/petra"
+      ]
+    , [
+        "https://gemnasium.com/cookrn/petra.png"
+      , "https://gemnasium.com/cookrn/petra"
+      ]
+    ]
+  , "description": "A toolkit for interacting with Ansible from Ruby"
+  , "github_user": "cookrn"
+  , "name": "petra"
+  }
+, {
+    "description": "**WIP** A system for securely managing environment variables"
+  , "github_user": "cookrn"
+  , "name": "senv"
+  }
+, {
+    "description": "**WIP** A Ruby ASCII art quine generator"
+  , "github_user": "cookrn"
+  , "name": "sig"
+  }
+, {
+    "badges": [
+      [
+        "https://badge.fury.io/rb/span.png"
+      , "http://badge.fury.io/rb/span"
+      ]
+    , [
+        "https://travis-ci.org/cookrn/span.png"
+      , "https://travis-ci.org/cookrn/span"
+      ]
+    , [
+        "https://codeclimate.com/github/cookrn/span.png"
+      , "https://codeclimate.com/github/cookrn/span"
+      ]
+    , [
+        "https://coveralls.io/repos/cookrn/span/badge.png"
+      , "https://coveralls.io/r/cookrn/span"
+      ]
+    , [
+        "https://gemnasium.com/cookrn/span.png"
+      , "https://gemnasium.com/cookrn/span"
+      ]
+    ]
+  , "description": "Calculate the differences between two dates"
+  , "github_user": "cookrn"
+  , "name": "span"
+  }
+, {
+    "badges": [
+      [
+        "https://badge.fury.io/rb/stable_match.png"
+      , "http://badge.fury.io/rb/stable_match"
+      ]
+    , [
+        "https://travis-ci.org/cookrn/stable_match.png"
+      , "https://travis-ci.org/cookrn/stable_match"
+      ]
+    , [
+        "https://codeclimate.com/github/cookrn/stable_match.png"
+      , "https://codeclimate.com/github/cookrn/stable_match"
+      ]
+    , [
+        "https://coveralls.io/repos/cookrn/stable_match/badge.png"
+      , "https://coveralls.io/r/cookrn/stable_match"
+      ]
+    , [
+        "https://gemnasium.com/cookrn/stable_match.png"
+      , "https://gemnasium.com/cookrn/stable_match"
+      ]
+    ]
+  , "description": "A generic implementation of the Stable Match class of algorithms"
+  , "github_user": "cookrn"
+  , "name": "stable_match"
+  }
+]
