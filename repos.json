@@ -54,7 +54,7 @@
       , "https://gemnasium.com/cookrn/petra"
       ]
     ]
-  , "description": "A toolkit for interacting with Ansible from Ruby"
+  , "description": "**WIP** A toolkit for interacting with Ansible from Ruby"
   , "github_user": "cookrn"
   , "name": "petra"
   }
