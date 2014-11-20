@@ -1,0 +1,13 @@
+[
+  {
+    "description": "A service for archiving unused Github repos (including history) to S3 in a tarball format. Shut down in 2012. Open sourced."
+  , "name": "Antiqua"
+  , "url": "https://github.com/antiqua-io/Antiqua"
+  }
+
+, {
+    "description": "A fully-functioning Database as a Service provider. Shut down in 2014. Open sourced."
+  , "name": "GridKick"
+  , "url": "https://github.com/gridkick"
+  }
+]

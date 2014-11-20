@@ -26,11 +26,19 @@
   , "github_user": "cookrn"
   , "name": "chrome_logger"
   }
+
+, {
+    "description": "A Sprockets-aware library that helps you inject assets inline into your HTML."
+  , "github_user": "cookrn"
+  , "name": "direct_inject"
+  }
+
 , {
     "description": "the ruby container you've always wanted: an ordered string/symbol indifferent hash"
   , "github_user": "ahoward"
   , "name": "map"
   }
+
 , {
     "badges": [
       [
@@ -58,16 +66,19 @@
   , "github_user": "cookrn"
   , "name": "petra"
   }
+
 , {
     "description": "**WIP** A system for securely managing environment variables"
   , "github_user": "cookrn"
   , "name": "senv"
   }
+
 , {
     "description": "**WIP** A Ruby ASCII art quine generator"
   , "github_user": "cookrn"
   , "name": "sig"
   }
+
 , {
     "badges": [
       [
@@ -95,6 +106,7 @@
   , "github_user": "cookrn"
   , "name": "span"
   }
+
 , {
     "badges": [
       [
@@ -121,5 +133,11 @@
   , "description": "A generic implementation of the Stable Match class of algorithms"
   , "github_user": "cookrn"
   , "name": "stable_match"
+  }
+
+, {
+    "description": "A simple Urbit Vagrant environment."
+  , "github_user": "cookrn"
+  , "name": "urbit-vagrant"
   }
 ]
