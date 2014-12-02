@@ -28,7 +28,29 @@
   }
 
 , {
-    "description": "A Sprockets-aware library that helps you inject assets inline into your HTML."
+    "badges": [
+      [
+        "https://badge.fury.io/rb/direct_inject.svg"
+      , "http://badge.fury.io/rb/direct_inject"
+      ]
+    , [
+        "https://travis-ci.org/cookrn/direct_inject.svg?branch=master"
+      , "https://travis-ci.org/cookrn/direct_inject"
+      ]
+    , [
+        "https://codeclimate.com/github/cookrn/direct_inject/badges/gpa.svg"
+      , "https://codeclimate.com/github/cookrn/direct_inject"
+      ]
+    , [
+        "https://img.shields.io/coveralls/cookrn/direct_inject.svg"
+      , "https://coveralls.io/r/cookrn/direct_inject"
+      ]
+    , [
+        "https://gemnasium.com/cookrn/direct_inject.svg"
+      , "https://gemnasium.com/cookrn/direct_inject"
+      ]
+    ]
+  , "description": "A Sprockets-aware library that helps you inject assets inline into your HTML."
   , "github_user": "cookrn"
   , "name": "direct_inject"
   }
